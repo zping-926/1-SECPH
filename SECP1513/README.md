@@ -7,7 +7,7 @@
 ### 🎙️ Assignment 1: Industry Talk 1
 *Reflections and reports on guest lectures.*
 - [x] **Industry Talk:** PPG Industry Talk
-- [📄 View Reflection](./PPG%20INDUSTRIAL%20TALK.pdf)
+- [📄 View/Download My Full Report (9.4 MB)](./PPG%20INDUSTRIAL%20TALK.pdf)
 <br>
 
 ### 🎬 Assignment 2: Industrial Visit
