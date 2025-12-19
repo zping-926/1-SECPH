@@ -6,7 +6,7 @@ My learning journey at UTM :)
 
 ### 🎓 Enrolled Courses
 
-#### 💻 SECP1513: Technology and Information System
+#### 💻 [SECP1513: Technology and Information System](./SECP1513/)
 
 #### 🔢 SECI1013: Discrete Structure
 
