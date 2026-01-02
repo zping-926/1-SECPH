@@ -34,11 +34,10 @@ These experiences have not only strengthened my technical knowledge but also ins
 - [x] **PC Maintenance Quiz/Lab**
 <br>
 
----
-[⬅️ Back to Coursework Menu](../)
 ### 💡 Design Thinking Project
 *Collaborative project on solving real-world problems.*
 - [ ] **Design Thinking Report & Prototype**
-
+<br>
 
 ---
+[⬅️ Back to Coursework Menu](../)
