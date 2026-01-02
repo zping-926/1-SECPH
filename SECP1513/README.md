@@ -19,7 +19,7 @@
 ### 🎙️ Assignment 3: Industry Talk 2
 *Insights into innovation and commerce.*
 - [x] **Industry Talk:** Innovation in Commerce (Serunai Commerce)
-- [📄 View Reflection](./Assignment3_Reflection.md)
+- [📄 View Reflection](./ASSIGNMENT%203%20-%20INDUSTRY%20TALK.pdf)
 <br>
 
 ### 🛠️ PC Maintenance & Hardware
