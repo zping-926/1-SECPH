@@ -13,7 +13,7 @@
 ### 🎬 Assignment 2: Industrial Visit
 *Video project and visit documentation.*
 - [x] **Event:** UTMDigital Open Day (28 Oct 2025)
-- [📄 View Video](https://drive.google.com/file/d/1XuKEUbjE4wRENTge3MuWG7qXJ66TWSNa/view?usp=sharing))
+- [📄 View Video](https://drive.google.com/file/d/1XuKEUbjE4wRENTge3MuWG7qXJ66TWSNa/view?usp=sharing)
 <br>
 
 ### 🎙️ Assignment 3: Industry Talk 2
