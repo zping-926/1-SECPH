@@ -1,7 +1,7 @@
 # 💻 SECP1513: Technology and Information System
 
----
-## 📂 Course Reflection
+
+### 📂 Course Reflection
 
 This course, SECP1513: Technology and Information System, has been an eye-opening introduction to the vast world of Information Technology. Throughout the semester, I have explored various aspects of technology, from understanding SAP operational streams and data analytics in global companies like PPG, to learning about innovation in commerce with Serunai Commerce.
 
