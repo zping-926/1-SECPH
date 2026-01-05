@@ -10,7 +10,7 @@ My learning journey at UTM :)
 
 #### 🔢 [SECI1013: Discrete Structure](./SECI1013/)
 
-#### ⌨️ SECJ1013: Programming Technique I
+#### ⌨️ [SECJ1013: Programming Technique I](./SECJ1013/) 
 
 #### 🔌 SECR1013: Digital Logic
 
