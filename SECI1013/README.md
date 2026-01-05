@@ -13,7 +13,7 @@ The course empowers me to solve complex computational problems and model electro
 ### ✍️ Assignment 1: Relations & Functions
 *Topic: Sets, Relations, and Characteristics.*
 - [x] **Status:** Completed
-- [📄 View Assignment 1](./Assignment1_Discrete.pdf) 
+
 
 ### ✍️ Assignment 2: Counting Methods & Probability
 *Topic: Permutations, Combinations, and Pigeonhole Principle.*
@@ -25,6 +25,8 @@ The course empowers me to solve complex computational problems and model electro
 - [x] **Status:** Completed
 - [📄 View Assignment 3](./Assignment%203.pdf)
 
+<br>
+
 ---
 
 ## 📚 Course Topics Covered
@@ -33,6 +35,8 @@ The course empowers me to solve complex computational problems and model electro
 * **Chapter 3:** Counting Methods & Probability
 * **Chapter 4:** Graph Theory & Trees
 * **Chapter 5:** Finite Automata
+
+<br>
 
 ---
 [⬅️ Back to Coursework Menu](../)
