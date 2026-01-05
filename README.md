@@ -12,7 +12,7 @@ My learning journey at UTM :)
 
 #### ⌨️ [SECJ1013: Programming Technique I](./SECJ1013/) 
 
-#### 🔌 SECR1013: Digital Logic
+#### 🔌 [SECR1013: Digital Logic](./SECR1013/) 
 
 #### ✨ ULRS1032: INTEGRITY AND ANTI-CORRUPTION COURSE
 
