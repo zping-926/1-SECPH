@@ -23,7 +23,7 @@ The course empowers me to solve complex computational problems and model electro
 ### ✍️ Assignment 3: Graphs & Trees
 *Topic: Paths, Cycles, Euler/Hamiltonian, and Dijkstra’s Algorithm.*
 - [x] **Status:** Completed
-- [📄 View Assignment 3](./Assignment3_Discrete.pdf)
+- [📄 View Assignment 3](./Assignment%203.pdf)
 
 ---
 
