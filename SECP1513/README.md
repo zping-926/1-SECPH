@@ -36,7 +36,8 @@ These experiences have not only strengthened my technical knowledge but also ins
 
 ### 💡 Design Thinking Project
 *Collaborative project on solving real-world problems.*
-- [ ] **Design Thinking Report & Prototype**
+- [x] **Design Thinking Report & Prototype**
+- [📄 View Report](./SECP1513-%20PlayMatch%20report.pdf)
 <br>
 
 ---
