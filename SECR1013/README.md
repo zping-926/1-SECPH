@@ -18,7 +18,7 @@ The hands-on experience in the digital lab—especially designing **Synchronous 
 - [x] **Lab 1:** Combinational Logic 
 - [x] **Lab 2:** Deeds
 - [x] **Lab 3:** Synchronous Digital Counter
-- [ ] **Final Project:** Electronic Lift/Elevator Controller System
+- [x] **Final Project:** Electronic Lift/Elevator Controller System
 
 <br>
 
