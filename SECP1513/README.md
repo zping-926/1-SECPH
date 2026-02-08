@@ -29,6 +29,12 @@ These experiences have not only strengthened my technical knowledge but also ins
 - [📄 View Report](./ASSIGNMENT%203%20-%20INDUSTRY%20TALK.pdf)
 <br>
 
+### 🎙️ Assignment 4: Industry Visit
+*A collaborative group project documenting our industrial exposure.*
+- [x] **Industry Visit:** Etiqa Insurance Berhad
+- [📄 View Newsletter](./Assignment%204%20-%20Industry%20Visit%20to%20Etiqa.pdf)
+<br>
+
 ### 🛠️ PC Maintenance & Hardware
 *Hands-on session on 30 Oct 2025.*
 - [x] **PC Maintenance Quiz/Lab**
